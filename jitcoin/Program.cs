@@ -1,7 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿#region Totally le JIT copyright/left?
+//
+// JJJJJ  IIIII  TTTTT
+//     J    I      T
+//     J    I      T
+// J   J    I      T
+//  JJJ   IIIII    T
+//
+// JEH, TJA 2017
+//
+#endregion
+using System;
 using System.Windows.Forms;
 
 namespace jitcoin {

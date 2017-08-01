@@ -1,4 +1,15 @@
-﻿namespace jitcoin {
+﻿#region Totally le JIT copyright/left?
+//
+// JJJJJ  IIIII  TTTTT
+//     J    I      T
+//     J    I      T
+// J   J    I      T
+//  JJJ   IIIII    T
+//
+// JEH, TJA 2017
+//
+#endregion
+namespace jitcoin {
     partial class Form1 {
         /// <summary>
         /// Required designer variable.
