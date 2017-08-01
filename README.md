@@ -1,4 +1,4 @@
 # jitcoin
-A totally useless, maybe functioning crypto-currency.
+A totally useless, non-functioning crypto-currency.
 
 *Totally le jit*
